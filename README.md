@@ -4,7 +4,7 @@
 
 #How to use this repository
 
-Here there are there 3 Excel files named ACC, INW, NCA . Each file contains various variables and data which I used to create this report. Other then it there is one more file named code.sas which contains code.
+Here there are there 3 Excel files named EAGBR and EAGTN . Each file contains various variables and data which I used to create this report. Other then it there is one more file named EAG.sas which contains code.
 
 #Considerations
 
