@@ -1,6 +1,6 @@
 # EAG_Report
 
-This  report contains  information on EAG,PCG,NRI customers - Turnover wise and Brokerage wise for some products like Equity and Derivative. It also contains total revenue for each products.
+This  report contains  information on EAG,PCG,NRI customers - Turnover wise and Brokerage wise for products like Equity and Derivative.  It also contains total revenue for each products.
 
 This report is useful to segregate the data on each Product wise what is the turnover of D-MAT accounts and what is the revenue we are generating by EAG,PCG and NRI customers.
 
